@@ -4,7 +4,7 @@
 
 ### I like to study and improve myself.
 
-<div style="display: flex; flex-direction: row;"><div>
+<div style="background-color: ffffff;"><div>
 
 #### Skills
 <p align="left">
