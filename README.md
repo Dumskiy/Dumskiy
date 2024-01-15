@@ -9,7 +9,13 @@
 <!-- <table width="auto" max-width="100%">
 <tr width="100%">
 <td valign="top" width="50%"> -->
+<!-- </td>
+<td valign="top" width="50%"> -->
+<!-- </td>
+</tr>
+</table>   -->
 
+<div>
 <div>
 
 #### Skills
@@ -41,8 +47,7 @@
 </p>
 
 </div>
-<!-- </td>
-<td valign="top" width="50%"> -->
+
 
 <div>
 
@@ -69,9 +74,8 @@
 </p>
 
 </div>
-<!-- </td>
-</tr>
-</table>   -->
+</div>
+
 
 ### Badges
 
