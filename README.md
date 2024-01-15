@@ -29,7 +29,7 @@
 <td valign="top" width="33%">
 
 <a href="https://github.com/Dumskiy" align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dumskiy&layout=compact&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=f97316&bg_color=000000&hide_border=true&locale=en&custom_title=Most%20%Used%20%Languages" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dumskiy&layout=donut-vertical&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=f97316&bg_color=000000&hide_border=true&locale=en&custom_title=Most%20%Used%20%Languages" alt="Most Used Languages" />
 </a>
 
 </td>
