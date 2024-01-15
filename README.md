@@ -4,18 +4,7 @@
 
 ### I like to study and improve myself.
 
-
-<!-- ## My Skill Set  -->
-<!-- <table width="auto" max-width="100%">
-<tr width="100%">
-<td valign="top" width="50%"> -->
-<!-- </td>
-<td valign="top" width="50%"> -->
-<!-- </td>
-</tr>
-</table>   -->
-
-<div>
+<div display="flex" gap="50px">
 <div>
 
 #### Skills
