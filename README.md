@@ -3,7 +3,9 @@
 ## Frontend developer from Russia, St. Petersburg.
 
 ### I like to study and improve myself.
----------------------------------------
+
+<hr />
+
 ### Skills
 
 <p align="left">
