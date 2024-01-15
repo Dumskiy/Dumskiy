@@ -6,7 +6,7 @@
 
 <table>
 <tr>
-<td valign="top" border="0">
+<td valign="top" border="false">
 
 ### My Skill Set
 
