@@ -15,4 +15,6 @@ I like to study and improve myself.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dumskiy&layout=compact)
 
-<a href="https://github.com/Dumskiy" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dumskiy&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=f97316&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/Dumskiy" align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dumskiy&layout=compact&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=f97316&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+</a>
