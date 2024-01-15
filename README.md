@@ -5,10 +5,12 @@
 ### I like to study and improve myself.
 
 
-## My Skill Set 
-<table width="auto" max-width="100%">
+<!-- ## My Skill Set  -->
+<!-- <table width="auto" max-width="100%">
 <tr width="100%">
-<td valign="top" width="50%">
+<td valign="top" width="50%"> -->
+
+<div>
 
 #### Skills
 <p align="left">
@@ -37,8 +39,12 @@
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored-dark.svg" width="36" height="36" alt="Babel" />
 </a>
 </p>
-</td>
-<td valign="top" width="50%">
+
+</div>
+<!-- </td>
+<td valign="top" width="50%"> -->
+
+<div>
 
 #### Tools
 <p align="left">
@@ -61,9 +67,11 @@
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" />
     </a>
 </p>
-</td>
+
+</div>
+<!-- </td>
 </tr>
-</table>  
+</table>   -->
 
 ### Badges
 
