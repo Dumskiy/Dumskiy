@@ -4,9 +4,10 @@
 
 ### I like to study and improve myself.
 
-<div display="flex">
 
-<div>
+<table>
+<tr>
+<td>
 
 #### Skills
 
@@ -37,9 +38,8 @@
 </a>
 </p>
 
-</div>
-
-<div>
+</td>
+<td>
 
 #### Tools
 <p align="left">
@@ -63,9 +63,9 @@
 </a>
 </p>
 
-</div>
-
-</div>
+</td>
+</tr>
+</table>
 
 ### Badges
 
