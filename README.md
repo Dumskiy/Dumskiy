@@ -6,7 +6,7 @@
 
 
 ## My Skill Set 
-<table width="auto">
+<table width="100%" max-width="100%">
 <tr width="100%">
 <td valign="top" width="50%">
 
