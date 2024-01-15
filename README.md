@@ -1,11 +1,8 @@
 # Hi, i'm Andrey
 
 ## Frontend developer from Russia, St. Petersburg.
------------------------------------------------
 
 ### I like to study and improve myself.
-
------------------------------------------------
 
 ### Skills
 
