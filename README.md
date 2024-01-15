@@ -25,8 +25,8 @@
     <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" />
     </a>
-    <a href="https://less-lang.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/less-colored.svg" width="36" height="36" alt="Less" />
+    <a href="https://lesscss.org/" target="_blank" rel="noreferrer">
+        <img src="http://www.drupal-studio.com/startup-site/images/icon-less.svg" width="36" height="36" alt="Less" />
     </a>
     <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored-dark.svg" width="36" height="36" alt="Babel" />
@@ -46,7 +46,7 @@
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" />
     </a>
     <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gulp-colored.svg" width="36" height="36" alt="Gulp" />
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gulp.svg" width="36" height="36" alt="Gulp" />
     </a>
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" />
