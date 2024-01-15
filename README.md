@@ -26,7 +26,7 @@
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" />
     </a>
     <a href="https://lesscss.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.svgrepo.com/show/373733/less.svg" width="72" height="36" alt="Less" />
+        <img src="https://www.svgrepo.com/show/373733/less.svg" width="45" height="36" alt="Less" />
     </a>
     <a href="https://babeljs.io/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored-dark.svg" width="36" height="36" alt="Babel" />
@@ -52,7 +52,7 @@
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" />
     </a>
     <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" />
+        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-light.svg" width="36" height="36" alt="Photoshop" />
     </a>
 </p>
 
