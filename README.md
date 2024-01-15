@@ -4,7 +4,7 @@
 
 ### I like to study and improve myself.
 
-<div style="display: flex;">
+<div style="display: flex">
 <div>
 
 #### Skills
@@ -36,8 +36,6 @@
 </p>
 
 </div>
-
-
 <div>
 
 #### Tools
