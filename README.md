@@ -4,7 +4,7 @@
 
 ### I like to study and improve myself.
 
-<div style="display:flex">
+<div display="flex">
 
 <div>
 
