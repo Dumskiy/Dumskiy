@@ -6,7 +6,9 @@
 
 
 ## My Skill Set 
-<table width="100%"><tr><td valign="top" width="50%">
+<table width="100%">
+<tr width="100%">
+<td valign="top" width="50%">
 
 #### Skills
 <p align="left">
@@ -35,7 +37,8 @@
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored-dark.svg" width="36" height="36" alt="Babel" />
 </a>
 </p>
-</td><td valign="top" width="50%">
+</td>
+<td valign="top" width="50%">
 
 #### Tools
 <p align="left">
@@ -58,7 +61,9 @@
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" />
     </a>
 </p>
-</td></tr></table>  
+</td>
+</tr>
+</table>  
 
 ### Badges
 
