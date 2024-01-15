@@ -4,7 +4,7 @@
 
 ### I like to study and improve myself.
 
-<div display="flex" gap="50px">
+<div class="flex-container">
 <div>
 
 #### Skills
